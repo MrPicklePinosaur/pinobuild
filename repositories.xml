@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<repositories version="1.0">
+	<repo quality="experimental" status="unofficial">
+		<name>pinobuild</name>
+		<description>Pinosaur's Unofficial Gentoo Overlay</description>
+		<homepage>https://github.com/MrPicklePinosaur/pinobuild</homepage>
+		<source type="git">https://github.com/MrPicklePinosaur/pinobuild</source>
+	</repo>
+</repositories>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+<maintainer type="person">
+	<email>danieliu3120@gmail.com</email>
+</maintainer>
+<use>
+	<flag name="savedconfig">saves user configuration files</flag>
+</use>
+</pkgmetadata>
